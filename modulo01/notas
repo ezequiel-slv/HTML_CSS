@@ -1,4 +1,26 @@
-&Lt &gt : serve para colocar uma tag em evidência na página sem alterar no funcionamento
-hr : traça uma linha 
-br : quebra a linha 
-Site para emojis: emojipedia
+&lt; e &gt; — Usados para mostrar tags na página sem que elas sejam interpretadas pelo HTML.
+
+<hr> — Insere uma linha horizontal para separar conteúdos.
+
+<br> — Faz uma quebra de linha no texto.
+
+Emojis — Um bom site para buscar emojis é o Emojipedia.
+
+<code> — Indica um trecho curto de código dentro de um texto.
+
+
+<pre> — Exibe texto pré-formatado, preservando espaços e quebras de linha.
+
+
+<q> — Representa uma citação curta feita dentro de um parágrafo.
+
+
+<blockquote> — Marca uma citação longa destacada do restante do texto.
+
+envelopar - Ctrl + Shift + P
+
+<strong> (negrito semântico): indica que o texto é importante.
+
+<em> (itálico semântico): indica que o texto deve ter ênfase no significado.
+
+<abbr>: marca uma abreviação ou sigla e permite mostrar seu significado completo ao passar o mouse, usando o atributo title.
